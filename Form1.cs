@@ -74,7 +74,7 @@ namespace SteamFamilySharingBypass
             // open youtube page
             Process.Start(new ProcessStartInfo
                 {
-                    FileName = "https://www.youtube.com/channel/UCbE9CmwlzQML1qbfNjcIlGw",
+                    FileName = "https://www.youtube.com/channel/UCOW8D3NEjpU-jBp0V_vAF5w",
                     UseShellExecute = true
                 }
             );
